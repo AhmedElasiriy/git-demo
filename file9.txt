@@ -3,3 +3,4 @@ first line
 Adding changes to the previous commit: git commit --amend.
 tag1
 some changes
+feature branch
